@@ -33,16 +33,14 @@
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
-        <span class="site-footer-credits">Copyright © 2018 ChordCore</span>
+        <span class="site-footer-credits">Copyright © <div id="current_date"></p> ChordCore</span>
         
-        <div id="current_date"></p>
         <script>
+        //Script for getting the current year
         date = new Date();
-        year = date.getFullYear();
-        month = date.getMonth() + 1;
-        day = date.getDate();
-        document.getElementById("current_date").innerHTML = month + "/" + day + "/" + year;
+        document.getElementById("current_date").innerHTML = date.getFullYear();
         </script>
+        
       </footer>
     </main>
   </body>
