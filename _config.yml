@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: ChordCore
 description: Interpret, Progress and Transpose chords
 show_downloads: true
+github:
+  zip_url: http://example.com/download.zip
