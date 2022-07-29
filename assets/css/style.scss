@@ -5,9 +5,11 @@
 #content{
   background-color: black;
 }
-.page-header{
-  align-content: left !important;
+body{
   background-image: linear-gradient(45deg, red, black) !important;
+}
+.page-header{
+  background-image: linear-gradient(45deg, blue, yellow) !important;
   background-size: 600px 502px;
   background-repeat: no-repeat;
   background-attachment: fixed;
