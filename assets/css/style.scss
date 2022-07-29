@@ -26,38 +26,14 @@ body{
   color: red;
 }
 .page-header{
+  background-image: url(https://github.com/chordcore/chordcore.github.io/raw/main/clientsbg.png);
+  
   color:red;
   background-color: black;
   background-size: 600px 502px;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: right;
-}
-
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-
-}
-
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
-
-}
-
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
-
-}
-
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
-
-}
-
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
-.page-header{
-    background-image: url(https://github.com/chordcore/chordcore.github.io/raw/main/clientsbg.png);
 }
 
 
