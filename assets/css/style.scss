@@ -6,8 +6,8 @@
   background-color: black;
 }
 .page-header{
-  align-content: left;
-  background-color: linear-gradient(45deg, red, black);
+  align-content: left !important;
+  background-color: linear-gradient(45deg, red, black) !important;
   background-size: 600px 502px;
   background-repeat: no-repeat;
   background-attachment: fixed;
