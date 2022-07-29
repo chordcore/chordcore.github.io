@@ -3,9 +3,11 @@
 
 @import "{{ site.theme }}";
 #content{
-  background-color:black;
+  background-color: black;
 }
 .page-header{
-  background-image:url(https://github.com/chordcore/chordcore.github.io/raw/main/clientsbg.png);
-  background-repeat:no-repeat;
+  background-image: url(https://github.com/chordcore/chordcore.github.io/raw/main/clientsbg.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right;
 }
