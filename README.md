@@ -15,6 +15,43 @@ With ChordCore you can write down the lyrics and chords of your song to achieve 
 #### Interpret and Play chords 
 Interpret and play chord symbols by copying them to ChordCore’s text editor
 
+#### Over 80 built-in chord types 
+The database includes the most commonly used chord symbols for more than 80 chord types
+
+#### Transpose chords
+Instantly transpose the chords to any key with a simple click
+
+#### Reversed chord finder
+Find chord names by selecting keys on the built-in virtual piano
+
+#### 5 selectable MIDI instruments
+Grand Piano, Electric Piano, Drawbar Organ, Acoustic Guitar, String Ensemble
+
+#### No install, easy portability, offline use
+Small-sized .exe file without the need for installing and internet access
+
+#### Updateable chord database 
+Manually update your ChordCore database with new (missing) chord types and symbols
+
+#### MIDI output selection
+Select the MIDI output easily inside ChordCore (e.g.: [VirtualMIDISynth](https://coolsoft.altervista.org/en/virtualmidisynth), synthesizers, keyboards)
+
+#### Auto key signature finder
+ChordCore automatically finds the key signature of chords with the highest probability
+
+#### 2 themes
+Change the design of ChordCore to the stylish Light or Dark
+
+#### Export to PDF
+Export the chord chart to .pdf format
+
+#### Record & Playback
+Record, play back and save the tempo between chords to ChordCore format (.ccf)
+
+#### Save your settings to the registry
+In-program settings are automatically saved to the registry
+
+
 
 All Pre-Defined ChordCore Chords:
 ```markdown
