@@ -1,4 +1,4 @@
-### What is ChordCore?
+## ChordCore
 
  [editor on GitHub](https://github.com/chordcore/chordcore.github.io/edit/main/README.md) 
 
