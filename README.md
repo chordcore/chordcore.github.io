@@ -18,7 +18,7 @@ With ChordCore you can write down the lyrics and chords of your song to achieve 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v5sAmU-on6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ### Interpret and Play chords 
-Interpret and play chord symbols by copying them to ChordCore’s text editor or by [Opening them as files](https://www.youtube.com/watch?v=aBfuHEeym34){:target="_blank"}</br>
+Interpret and play chord symbols by copying them to ChordCore’s text editor or by [Opening them as files](https://youtu.be/aBfuHEeym34){:target="_blank"}</br>
 <img src="chordcore_text_editor.png" width="315" height="236">
 
 ### Over 80 built-in chord types 
@@ -43,7 +43,7 @@ Find chord names by selecting keys on the built-in virtual piano</br>
 
 ### 5 selectable MIDI instruments
 Grand Piano, Electric Piano, Drawbar Organ, Acoustic Guitar, String Ensemble</br>
-[Watch tutorial video](https://www.youtube.com/watch?v=3d78S2ifLIo){:target="_blank"}
+[Watch tutorial video](https://youtu.be/3d78S2ifLIo){:target="_blank"}
 
 ### No install, easy portability, offline use
 Small-sized .exe file without the need for installing and internet access
@@ -67,7 +67,8 @@ Change the design of ChordCore to the stylish Light or Dark
 
 ### Export to PDF
 Export the chord chart to .pdf format</br>
-<img src="chordcore_pdf_file_export.png" width="485" height="326">
+<img src="chordcore_pdf_file_export.png" width="485" height="326"></br>
+[Watch tutorial video](https://youtu.be/6CJ0cuDuLCA?t=86){:target="_blank"}
 
 ### Record & Playback
 Record, play back and save the tempo between chords to ChordCore format (.ccf)</br>
