@@ -23,8 +23,9 @@ The database includes the most commonly used chord symbols for more than 80 chor
 ### Transpose chords
 Instantly transpose the chords to any key with a simple click
 
-### Reversed chord finder
-Find chord names by selecting keys on the built-in virtual piano
+### Reverse chord finder
+Find chord names by selecting keys on the built-in virtual piano</br>
+<img src="chordcore_reverse_chord_finder.png" width="301" height="163">
 
 ### 5 selectable MIDI instruments
 Grand Piano, Electric Piano, Drawbar Organ, Acoustic Guitar, String Ensemble
