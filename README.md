@@ -14,8 +14,9 @@ Those who are eager to start, will learn how to play chords easily, without the 
 With ChordCore you can write down the lyrics and chords of your song to achieve the planned chord progression. You can explore the set of extended chords common in jazz, funk, and R&B. If you are a musician who is not familiar with chord symbol interpretation, ChordCore will be a indispensable tool for you. Even singers can find it useful by having straight chord accompaniment in the best possible key.
 
 ## Features
-
+<div class="responsive-youtube">
 <p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v5sAmU-on6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</div>
 
 ### Interpret and Play chords 
 [Interpret and play](https://youtu.be/6CJ0cuDuLCA?t=13){:target="_blank"} chord symbols by copying them in ChordCore’s text editor or by [Opening them as files](https://youtu.be/aBfuHEeym34){:target="_blank"}<br/>
