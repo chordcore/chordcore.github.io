@@ -46,7 +46,7 @@ Change the design of ChordCore to the stylish Light or Dark
 
 ### Export to PDF
 Export the chord chart to .pdf format
-<img src="chordcore_pdf_file_export.png" width="485" height="326" style="float:right"></img>
+<img src="chordcore_pdf_file_export.png" width="485" height="326"></img>
 
 ### Record & Playback
 Record, play back and save the tempo between chords to ChordCore format (.ccf)
