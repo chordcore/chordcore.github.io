@@ -42,10 +42,6 @@ Instantly transpose the chords to any key with a simple click<br/>
 Find chord names by selecting keys on the built-in virtual piano<br/>
 <img src="chordcore_reverse_chord_finder.png" width="301" height="163">
 
-### 5 selectable MIDI instruments
-Grand Piano, Electric Piano, Drawbar Organ, Acoustic Guitar, String Ensemble<br/>
-[Watch tutorial video](https://youtu.be/3d78S2ifLIo){:target="_blank"}
-
 ### No install, easy portability, offline use
 Small-sized .exe file without the need for installing and internet access
 
@@ -54,8 +50,9 @@ Manually update your ChordCore database with new (missing) chord types and symbo
 [Watch tutorial video](https://youtu.be/5onjAq57sU4){:target="_blank"}<br/>
 <img src="chordcore_chord_definitions.png" width="346" height="169">
 
-### MIDI output selection
-Select the MIDI output easily inside ChordCore (e.g.: [VirtualMIDISynth](https://coolsoft.altervista.org/en/virtualmidisynth){:target="_blank"}, synthesizers, keyboards)<br/>
+### MIDI output selection with 5 selectable MIDI instruments
+Select the MIDI output easily inside ChordCore (e.g.: [VirtualMIDISynth](https://coolsoft.altervista.org/en/virtualmidisynth){:target="_blank"}, Grand Piano, Electric Piano, Drawbar Organ, Acoustic Guitar, String Ensemble)<br/>
+[Watch tutorial video](https://youtu.be/3d78S2ifLIo){:target="_blank"}<br/>
 <img src="chordcore_MIDI_instruments.png" width="348" height="130">
 
 ### Auto key signature finder
