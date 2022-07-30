@@ -15,6 +15,8 @@ With ChordCore you can write down the lyrics and chords of your song to achieve 
 
 ## Features
 
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v5sAmU-on6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
 ### Interpret and Play chords 
 Interpret and play chord symbols by copying them to ChordCore’s text editor</br>
 <img src="chordcore_text_editor.png" width="315" height="236">
