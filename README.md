@@ -2,7 +2,7 @@
 
 ChordCore is a free piano education software for beginners who are just starting to learn the first chords, and experts who aim to broaden their knowledge. The main purpose of the software is to provide a fast and graphical way to interpret chords. Nowadays the internet is filled with openly available chord / lyrics texts for most popular songs. Unfortunately, the vast majority of these texts are only available as guitar tab displayers. ChordCore can efficiently decode these texts and demonstrate them using a built-in virtual piano keyboard, with the added choice to explore chord progressions. It is possible to record, playback and even save the tempo of chord changes making it easier to learn complex music. With just a few clicks, you can correct, improve or transpose the chords using the built-in chord definitions. ChordCore can interpret all known chord types and alternate all chord symbols, but in case of special cases, the database is easily updatable.
 <br/>
-<div class="responsive-youtube" align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fklbXvDouDs" title="ChordCore Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="responsive-youtube" align="left"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fklbXvDouDs" title="ChordCore Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
