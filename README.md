@@ -16,7 +16,8 @@ With ChordCore you can write down the lyrics and chords of your song to achieve 
 ## Features
 
 ### Interpret and Play chords 
-Interpret and play chord symbols by copying them to ChordCore’s text editor
+Interpret and play chord symbols by copying them to ChordCore’s text editor</br>
+<img src="chordcore_text_editor.png" width="315" height="236">
 
 ### Over 80 built-in chord types 
 The database includes the most commonly used chord symbols for more than 80 chord types
