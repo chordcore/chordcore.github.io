@@ -30,15 +30,16 @@ hr.rounded {
   border-radius: 25px;
 }
 .responsive-youtube{
-  height: 0px;
-	padding-top: 25px;
-	padding-bottom: 56.2%;
-	position: relative;
+height: 0px;
+padding-top: 25px;
+padding-bottom: 56.2%;
+position: relative;
+max-width: 50px;
 }
 .responsive-youtube iframe{
-  width: 100%;
-	height: 100%;
-	position: absolute;
+width: 100%;
+height: 100%;
+position: absolute;
 }
 .main-content h1 {
   text-align: center;
