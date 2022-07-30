@@ -37,7 +37,7 @@ Manually update your ChordCore database with new (missing) chord types and symbo
 
 ### MIDI output selection
 Select the MIDI output easily inside ChordCore (e.g.: [VirtualMIDISynth](https://coolsoft.altervista.org/en/virtualmidisynth){:target="_blank"}, synthesizers, keyboards)</br>
-<img src="chordcore_MIDI_instruments.png)" width="348" height="130">
+<img src="chordcore_MIDI_instruments.png" width="348" height="130">
 
 ### Auto key signature finder
 ChordCore automatically finds the key signature of chords with the highest probability
