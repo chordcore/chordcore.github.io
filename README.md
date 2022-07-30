@@ -80,4 +80,4 @@ User settings are automatically saved to the registry
 
 ## Contact
 
-Having questions? Contact us at ...
+Having questions? Contact us at john<span class="domain">abc.com</span>
