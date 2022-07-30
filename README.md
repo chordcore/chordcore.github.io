@@ -34,7 +34,8 @@ Grand Piano, Electric Piano, Drawbar Organ, Acoustic Guitar, String Ensemble
 Small-sized .exe file without the need for installing and internet access
 
 ### Updateable chord database 
-Manually update your ChordCore database with new (missing) chord types and symbols
+Manually update your ChordCore database with new (missing) chord types and symbols</br>
+<img src="chordcore_chord_definitions.png" width="346" height="169">
 
 ### MIDI output selection
 Select the MIDI output easily inside ChordCore (e.g.: [VirtualMIDISynth](https://coolsoft.altervista.org/en/virtualmidisynth){:target="_blank"}, synthesizers, keyboards)</br>
