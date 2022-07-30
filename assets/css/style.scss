@@ -9,6 +9,7 @@ body{
   background-image: linear-gradient(45deg, red, black);
 }
 #blacknesstop{
+  display: inline-block !important;
   background-color:black;
 }
 #hashes {
