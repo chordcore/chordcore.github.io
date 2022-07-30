@@ -17,6 +17,12 @@ body{
  font-size: 13px !important;
  text-align: left;
 }
+#address{
+ display: inline-block !important;
+ background-color: rgba(0, 0, 0, 0.8) !important;
+ font-size: 13px !important;
+ text-align: center;
+}
 /* Rounded border */
 hr.rounded {
   width: 200px;
