@@ -6,19 +6,19 @@ ChordCore is a free piano education software for beginners who are just starting
 
 ### For Beginners
 
-Those who are eager to start, will learn how to play chords easily, without the skill of reading music sheets. Beginners can learn how to build and play major, minor, seventh, augmented, diminished, suspended, extended chords on the piano. The use of chord formulas and their benefits is also an acquirable skill with ChordCore. One of the tool’s strongest capabilities is the reverse chord finder, which allows us to find chord names that have a specific set of notes. By using the built-in virtual piano or dynamic text editor, the chords can be played out with one of the five selectable MIDI instruments. It is also possible to use high-quality sound fonts instead of general MIDI instruments to reach professional, studio-level sounding. You can even connect and pair your external MIDI keyboard with ChordCore for improved practicality. Export the used chords chart to PDF document is also a sought after feature that ChordCore is capable of.
+Those who are eager to start, will learn how to play chords easily, without the skill of reading music sheets. Beginners can learn how to build and play major, minor, seventh, augmented, diminished, suspended, extended chords on the piano. The use of chord formulas and their benefits is also an acquirable skill with ChordCore. One of the tool’s strongest capabilities is the reverse chord finder, which allows us to find chord names that have a specific set of notes. By using the built-in virtual piano or dynamic text editor, the chords can be played out with one of the five selectable MIDI instruments. It is also possible to use high-quality sound fonts instead of general MIDI instruments to reach professional, studio-level sounding. You can even connect and pair your external MIDI keyboard with ChordCore for improved practicality. Exporting the used chords chart to a PDF document is also a sought after feature that ChordCore is capable of.
 
 
 ### For Professionals
 
-With ChordCore you can write down the lyrics and chords of your song to achieve the wished chord progression. You can explore the set of extended chords common in jazz, funk, and R&B. If you are a musician but not familiar with chord symbol interpretation, ChordCore can help you with this too. Even singers can find ChordCore useful by having straight chord accompaniment in the best possible key.
+With ChordCore you can write down the lyrics and chords of your song to achieve the planned chord progression. You can explore the set of extended chords common in jazz, funk, and R&B. If you are a musician who is not familiar with chord symbol interpretation, ChordCore will be a indispensable tool for you. Even singers can find it useful by having straight chord accompaniment in the best possible key.
 
 ## Features
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v5sAmU-on6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ### Interpret and Play chords 
-[Interpret and play](https://youtu.be/6CJ0cuDuLCA?t=13){:target="_blank"} chord symbols by copying them to ChordCore’s text editor or by [Opening them as files](https://youtu.be/aBfuHEeym34){:target="_blank"}<br/>
+[Interpret and play](https://youtu.be/6CJ0cuDuLCA?t=13){:target="_blank"} chord symbols by copying them in ChordCore’s text editor or by [Opening them as files](https://youtu.be/aBfuHEeym34){:target="_blank"}<br/>
 <img src="chordcore_text_editor.png" width="315" height="236">
 
 ### Over 80 built-in chord types 
@@ -42,8 +42,8 @@ Instantly transpose the chords to any key with a simple click<br/>
 Find chord names by selecting keys on the built-in virtual piano<br/>
 <img src="chordcore_reverse_chord_finder.png" width="301" height="163">
 
-### No install, easy portability, offline use
-Small-sized .exe file without the need for installing and internet access
+### No install, easy portability, no internet connection needed
+Small-sized, portable executable file without the need to install it or connect it to the internet
 
 ### Updateable chord database 
 Manually update your ChordCore database with new (missing) chord types and symbols<br/>
@@ -56,10 +56,10 @@ Select the MIDI output easily inside ChordCore (e.g.: [VirtualMIDISynth](https:/
 <img src="chordcore_MIDI_instruments.png" width="348" height="130">
 
 ### Auto key signature finder
-ChordCore automatically finds the key signature of chords with the highest probability
+ChordCore automatically finds the most probable key signature of chords
 
 ### 2 themes
-Change the design of ChordCore to the stylish Light or Dark
+Light and dark style
 <br/>
 <img src="clientsbg.png" width="600" height="502">
 
@@ -69,11 +69,11 @@ Export the chord chart to .pdf format<br/>
 [Watch tutorial video](https://youtu.be/6CJ0cuDuLCA?t=86){:target="_blank"}
 
 ### Record & Playback
-Record, play back and save the tempo between chords to ChordCore format (.ccf)<br/>
+Record, play back and save the tempo between chords to ChordCore's supported file format (.ccf)<br/>
 [Watch tutorial video](https://youtu.be/LMuza3s-KuA){:target="_blank"}
 
 ### Save your settings to the registry
-In-program settings are automatically saved to the registry
+User settings are automatically saved to the registry
 
 
 
