@@ -9,7 +9,7 @@ body{
   background-image: linear-gradient(45deg, red, black);
 }
 #blacknesstop{
-  background-image: radial-gradient(circle, black, transparent, transparent);
+  background-image: radial-gradient(circle, black 50%, transparent 25%, transparent 25%);
 }
 #hashes {
  display: inline-block !important;
