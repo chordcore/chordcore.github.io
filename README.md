@@ -36,7 +36,8 @@ Small-sized .exe file without the need for installing and internet access
 Manually update your ChordCore database with new (missing) chord types and symbols
 
 ### MIDI output selection
-Select the MIDI output easily inside ChordCore (e.g.: [VirtualMIDISynth](https://coolsoft.altervista.org/en/virtualmidisynth){:target="_blank"}, synthesizers, keyboards)
+Select the MIDI output easily inside ChordCore (e.g.: [VirtualMIDISynth](https://coolsoft.altervista.org/en/virtualmidisynth){:target="_blank"}, synthesizers, keyboards)</br>
+<img src="chordcore_MIDI_instruments.png)" width="348" height="130">
 
 ### Auto key signature finder
 ChordCore automatically finds the key signature of chords with the highest probability
@@ -46,7 +47,7 @@ Change the design of ChordCore to the stylish Light or Dark
 
 ### Export to PDF
 Export the chord chart to .pdf format</br>
-<img src="chordcore_pdf_file_export.png" width="485" height="326"></img>
+<img src="chordcore_pdf_file_export.png" width="485" height="326">
 
 ### Record & Playback
 Record, play back and save the tempo between chords to ChordCore format (.ccf)
