@@ -11,8 +11,6 @@ body{
 #blacknesstop{
   display: inline-block !important;
   background-image: radial-gradient(circle, black, black, transparent);
-  position: absolute;
-  bottom: 0;
 }
 #hashes {
  display: inline-block !important;
@@ -34,7 +32,7 @@ body{
 }
 .page-header{
   background-image: url(https://github.com/chordcore/chordcore.github.io/raw/main/clientsbg.png);
-  position: relative;
+
   color:red;
   background-color: rgba(0, 0, 0, 0.5) !important;
   background-size: 600px 502px;
