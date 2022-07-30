@@ -18,7 +18,7 @@ With ChordCore you can write down the lyrics and chords of your song to achieve 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v5sAmU-on6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ### Interpret and Play chords 
-Interpret and play chord symbols by copying them to ChordCore’s text editor or by [Opening them as files](https://youtu.be/aBfuHEeym34){:target="_blank"}</br>
+[Interpret and play](https://youtu.be/6CJ0cuDuLCA?t=13){:target="_blank"} chord symbols by copying them to ChordCore’s text editor or by [Opening them as files](https://youtu.be/aBfuHEeym34){:target="_blank"}</br>
 <img src="chordcore_text_editor.png" width="315" height="236">
 
 ### Over 80 built-in chord types 
@@ -35,7 +35,8 @@ B B3 B5 B6 BMajor6 BM6 BMaj6 Bmaj6 BMaj7 BM7 BMajor7 Bmaj7 BMaj7(b5) Bmaj7(b5) B
 ```
 
 ### Transpose chords
-Instantly transpose the chords to any key with a simple click
+Instantly transpose the chords to any key with a simple click</br>
+[Watch tutorial video](https://youtu.be/6CJ0cuDuLCA?t=48){:target="_blank"}
 
 ### Reverse chord finder
 Find chord names by selecting keys on the built-in virtual piano</br>
@@ -50,7 +51,7 @@ Small-sized .exe file without the need for installing and internet access
 
 ### Updateable chord database 
 Manually update your ChordCore database with new (missing) chord types and symbols</br>
-[Watch tutorial video](https://www.youtube.com/watch?v=5onjAq57sU4){:target="_blank"}</br>
+[Watch tutorial video](https://youtu.be/5onjAq57sU4){:target="_blank"}</br>
 <img src="chordcore_chord_definitions.png" width="346" height="169">
 
 ### MIDI output selection
@@ -72,7 +73,7 @@ Export the chord chart to .pdf format</br>
 
 ### Record & Playback
 Record, play back and save the tempo between chords to ChordCore format (.ccf)</br>
-[Watch tutorial video](https://www.youtube.com/watch?v=LMuza3s-KuA){:target="_blank"}
+[Watch tutorial video](https://youtu.be/LMuza3s-KuA){:target="_blank"}
 
 ### Save your settings to the registry
 In-program settings are automatically saved to the registry
