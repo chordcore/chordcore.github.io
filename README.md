@@ -56,6 +56,8 @@ ChordCore automatically finds the key signature of chords with the highest proba
 
 ### 2 themes
 Change the design of ChordCore to the stylish Light or Dark
+</br>
+<img src="clientsbg.png" width="600" height="502">
 
 ### Export to PDF
 Export the chord chart to .pdf format</br>
