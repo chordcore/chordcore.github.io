@@ -80,4 +80,4 @@ User settings are automatically saved to the registry
 
 ## Contact
 
-Having questions? Contact us at <p style="color:red">chordcore<span class="domain">gmail.com</span></p>
+Having questions? Contact us at chordcore<span class="domain">gmail.com</span>
