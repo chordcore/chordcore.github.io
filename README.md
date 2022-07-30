@@ -35,27 +35,27 @@ B B3 B5 B6 BMajor6 BM6 BMaj6 Bmaj6 BMaj7 BM7 BMajor7 Bmaj7 BMaj7(b5) Bmaj7(b5) B
 ```
 
 ### Transpose chords
-Instantly transpose the chords to any key with a simple click</br>
+Instantly transpose the chords to any key with a simple click<br/>
 [Watch tutorial video](https://youtu.be/6CJ0cuDuLCA?t=48){:target="_blank"}
 
 ### Reverse chord finder
-Find chord names by selecting keys on the built-in virtual piano</br>
+Find chord names by selecting keys on the built-in virtual piano<br/>
 <img src="chordcore_reverse_chord_finder.png" width="301" height="163">
 
 ### 5 selectable MIDI instruments
-Grand Piano, Electric Piano, Drawbar Organ, Acoustic Guitar, String Ensemble</br>
+Grand Piano, Electric Piano, Drawbar Organ, Acoustic Guitar, String Ensemble<br/>
 [Watch tutorial video](https://youtu.be/3d78S2ifLIo){:target="_blank"}
 
 ### No install, easy portability, offline use
 Small-sized .exe file without the need for installing and internet access
 
 ### Updateable chord database 
-Manually update your ChordCore database with new (missing) chord types and symbols</br>
-[Watch tutorial video](https://youtu.be/5onjAq57sU4){:target="_blank"}</br>
+Manually update your ChordCore database with new (missing) chord types and symbols<br/>
+[Watch tutorial video](https://youtu.be/5onjAq57sU4){:target="_blank"}<br/>
 <img src="chordcore_chord_definitions.png" width="346" height="169">
 
 ### MIDI output selection
-Select the MIDI output easily inside ChordCore (e.g.: [VirtualMIDISynth](https://coolsoft.altervista.org/en/virtualmidisynth){:target="_blank"}, synthesizers, keyboards)</br>
+Select the MIDI output easily inside ChordCore (e.g.: [VirtualMIDISynth](https://coolsoft.altervista.org/en/virtualmidisynth){:target="_blank"}, synthesizers, keyboards)<br/>
 <img src="chordcore_MIDI_instruments.png" width="348" height="130">
 
 ### Auto key signature finder
@@ -63,22 +63,24 @@ ChordCore automatically finds the key signature of chords with the highest proba
 
 ### 2 themes
 Change the design of ChordCore to the stylish Light or Dark
-</br>
+<br/>
 <img src="clientsbg.png" width="600" height="502">
 
 ### Export to PDF
-Export the chord chart to .pdf format</br>
-<img src="chordcore_pdf_file_export.png" width="485" height="326"></br>
+Export the chord chart to .pdf format<br/>
+<img src="chordcore_pdf_file_export.png" width="485" height="326"><br/>
 [Watch tutorial video](https://youtu.be/6CJ0cuDuLCA?t=86){:target="_blank"}
 
 ### Record & Playback
-Record, play back and save the tempo between chords to ChordCore format (.ccf)</br>
+Record, play back and save the tempo between chords to ChordCore format (.ccf)<br/>
 [Watch tutorial video](https://youtu.be/LMuza3s-KuA){:target="_blank"}
 
 ### Save your settings to the registry
 In-program settings are automatically saved to the registry
 
 
+
+
 ## Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having questions? Contact us at ...
