@@ -18,7 +18,7 @@ With ChordCore you can write down the lyrics and chords of your song to achieve 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v5sAmU-on6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ### Interpret and Play chords 
-[Interpret and play](https://youtu.be/6CJ0cuDuLCA?t=13){:target="_blank"} chord symbols by copying them to ChordCore’s text editor or by [Opening them as files](https://youtu.be/aBfuHEeym34){:target="_blank"}</br>
+[Interpret and play](https://youtu.be/6CJ0cuDuLCA?t=13){:target="_blank"} chord symbols by copying them to ChordCore’s text editor or by [Opening them as files](https://youtu.be/aBfuHEeym34){:target="_blank"} </br>
 <img src="chordcore_text_editor.png" width="315" height="236">
 
 ### Over 80 built-in chord types 
