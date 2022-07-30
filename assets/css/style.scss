@@ -17,6 +17,11 @@ body{
  font-size: 13px !important;
  text-align: left;
 }
+/* Rounded border */
+hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
 #content{
   margin-top:-160px;
   border-radius: 25px;
