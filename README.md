@@ -43,6 +43,7 @@ Find chord names by selecting keys on the built-in virtual piano</br>
 
 ### 5 selectable MIDI instruments
 Grand Piano, Electric Piano, Drawbar Organ, Acoustic Guitar, String Ensemble
+[Watch tutorial video](https://www.youtube.com/watch?v=3d78S2ifLIo){:target="_blank"}
 
 ### No install, easy portability, offline use
 Small-sized .exe file without the need for installing and internet access
